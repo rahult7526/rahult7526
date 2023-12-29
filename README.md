@@ -1,3 +1,4 @@
+https://media1.giphy.com/media/dCtxEeqy42KqlQzQAn/giphy.gif?cid=ecf05e479mjierzxaacwrypsuf0ntj729u54kdocon4mas8y&ep=v1_gifs_search&rid=giphy.gif&ct=g
 - 👋 Hi, I’m @rahult7526
 - 🌱 I’m currently learning Web Development and Video editing.
 - 👨‍💻 All of my projects are available at https://github.com/rahult7526
