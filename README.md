@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahult7526
 - 🌱 I’m currently learning Web Development and Video editing.
-- 👨‍💻 All of my projects are available at https://github.com/rahult7526
 - 📫 You can reach me on rahult7526@gmail.com or https://www.linkedin.com/in/rahul-tiwary-676b49261/
 
 
