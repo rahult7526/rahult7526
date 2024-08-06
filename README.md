@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahult7526
-- 🌱 I’m currently learning Web Development and Video editing.
+- 🌱 I’m currently learning Blockchain development.
 - 📫 You can reach me on rahult7526@gmail.com or https://www.linkedin.com/in/rahul-tiwary-676b49261/
 
 
