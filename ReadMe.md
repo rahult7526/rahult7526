@@ -1,4 +1,4 @@
-# 💫 About Me: ⚡ Fun Fact: I break smart contracts before they break in production.
+# 💫 About Me: 
 Hi there! I'm Rahul Tiwary, a blockchain enthusiast and passionate software developer. With a deep interest in blockchain technology and its transformative potential, I am dedicated to exploring and contributing to this exciting field. My expertise spans various domains, including:<br><br>    Blockchain Development: Building decentralized applications (dApps) and smart contracts.<br>    Web Development: Creating dynamic and user-friendly web applications using cutting-edge technologies.<br>    Machine Learning: Leveraging data science and machine learning to craft intelligent solutions.<br>    Open Source Contributions: Engaging with and supporting the open-source community through contributions and collaboration.<br><br>I'm always eager to learn, innovate, and connect with others in the tech community. Feel free to explore my repositories and projects to see what I'm working on. Let's connect and build the future together!
 
 
