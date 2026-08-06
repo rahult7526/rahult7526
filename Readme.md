@@ -21,47 +21,7 @@
 
 <br>
 
-<br>
-
-## `$ cat me.ascii`
-
-<div align="center">
-
-```
--------------------:-::::::::::::::-----------------------------------------------------============
-*+*=---------------::::::::::::-----------======---------------::------------------------===========
-*+##*+=-----------::::::::::::::-----------==++=--------------:::------------------+++++============
-++****+*=---------:::::::::::::::-----------====-----------:::::::----------------+%%%%%#===========
-++****++=====-----:::::::::::::::-+=+---------=-----------:::::--------------==-=*%%%%%%%#==========
-+=*****+====+=------:::::::::::::-===-:------:----------:::---::-------------==-*%%%%%%%%%+=========
-=+******+=-=+===-------:::::::::::--===--------::::--:--=++***++*********+======-+%%%%%%%+==++++++++
-==****+*+=-==+++=--------:::::::::::++++====---=++***+=-=+**+****+**++****======--=#####+-==*****#**
-++***++*+===++++=---------:::::::::-++++===--*####%%%%%####*+****+*+*+****++====---------===+#####**
-++***++*+===++++=----------=-::::::-==++=---#%%####%%%%%%%%%**#**+**++*****++===------======++******
-#####***+-=+=+++=--------=+++=-::::-+++===-*%%%#####%%%%%%%%#*#++=**=++*+**++===------=====+=======+
-%%%%%%%#+-==++++=-----=+++++++++-:::+++====*%%#*####***#%%%%#***++**++******++==------===+*####*****
-%%%%%%%#+======++==---*%####%#++=:::----==--*%*#########%%%%%%%%##%%%##%%%%#*+===----===*###%%######
-%%%%%%%#+====++**+*+==*%%##%#+=+=-:::::-==:-+#######*#%%%#%#%%%%%%%%%%%%%%%%*++========+*%%#%%######
-%%%%%%%#+==++####*##***#**=+*++++-:-----=---++++++*=-+****##%%%%%%%%%%%%%%%%*+++=====*#**%#*##*#####
-%%%%%%%#+=+++*#%%#########***#**+-------+=--=*+++=+###*+*##%%%@%%%%%%%%%%%@%#+++====**##%%%%%%##%%%#
-%%%%%%%#+=++**#%%%%%%%%%#######**-------++---*#*++*####**#%%%%@%%%%%%%%%%%@%#*++===+****%@%+++++#@@%
-%%%%%%%#+=++**##%%%%%%%%#######**-------*+----*##***#####%%%%%%%%%%%%%%%%%@%#**+==+#%%%%@@%+====*%@@
-%%%%%%%#+=++**#%%%%%%%%%%####%%#*+*****=++==+=+#%#**####%%%%#%%%###%%%%%%%@@%**+===*%%%%%@%++===+%%%
-%%%%%%##+++**#%%%%%%%%%%%%##%%%%####++#+-====+**#%%%%%%%%%#**+**+++*#%%%%%%%%%#*+==+#%%%%@%*++++*%#*
-%%%%%%%#*+***#%%%%%%%%%%%%%%%%%##**+=-------=++*####%%%%%##*++======+*%%%%%%%%%%+===#%%%%@@%%%%%*+++
-@%%%%%%%%#####%%%%%%%%%%%%%%%%%##*=---------++++*###%%%%#***++=====---=#%%%%%%%%**+=#%%%%@@@@@%+++++
-#*###*#####**##%%%%%%%%#%%%%%%*#*=-------====+++++*#####***+++=====-====+********#*+#%%@%@@@@%+=*+++
-**###*********##%%%%%%%%%%%%%%*+=====-=---====++++**#####*+++============*********#+*@@@@@@@@#++++++
-**************##%%%%%%%%%%%%%%*================++*****##*+++========++++++**###***#*#%@@@@@%%*++++==
-*************####%%%%%%%%%%%%%+====+++++=======+++++++*++++=====+++++++++++++*#%#####%@@@%%##++++===
-**********+*#*###%%%%%%%%%%%%*==++++****++++==++++++**+=++==+++++***++++++=++++#%%%%%%%@@%##%*++====
-++*#+=+**+*####**++*##*****##+===+++****++++++++++++*+==++++++++**##****++=++++*%%%%%%%%%%%#%*++++==```
-
-</div>
-
-<br>
-
-## `$ cat about.md`
+## `about.md`
 
 Computer Science graduate focused on Java backend development with Spring Boot, RESTful APIs, and relational database design, moving toward AWS and Azure cloud specialization. Experience building scalable real-time and blockchain-based systems with an emphasis on clean architecture, authentication, and modular design.
 
@@ -75,7 +35,7 @@ OPEN_TO   : Java Backend Engineer roles, Cloud Engineer (AWS/Azure) roles
 
 <br>
 
-## `$ ls tech-stack/`
+## `tech-stack/`
 
 **Languages**
 
@@ -95,7 +55,7 @@ OPEN_TO   : Java Backend Engineer roles, Cloud Engineer (AWS/Azure) roles
 
 <br>
 
-## `$ grep -r "specialty"`
+## `specialty`
 
 ![Backend Development](https://img.shields.io/badge/Backend_Development-FF9900?style=flat-square&labelColor=0A192F)
 ![Cloud (AWS/Azure)](https://img.shields.io/badge/Cloud_AWS_%2F_Azure-FF9900?style=flat-square&labelColor=0A192F)
@@ -105,7 +65,7 @@ OPEN_TO   : Java Backend Engineer roles, Cloud Engineer (AWS/Azure) roles
 
 <br>
 
-## `$ cat expertise.table`
+## `expertise.table`
 
 <div align="center">
 
@@ -122,7 +82,7 @@ OPEN_TO   : Java Backend Engineer roles, Cloud Engineer (AWS/Azure) roles
 
 <br>
 
-## `$ ls projects/ --featured`
+## `projects/ --featured`
 
 <details open>
 <summary><b>🗂️ TrackFlow — Issue Tracking System (In Progress)</b></summary>
@@ -156,7 +116,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ tail -f experience.log`
+## `experience.log`
 
 **Blockchain Developer** — *Metacrafters (Volunteer Experience)*
 `June 2024 – Sept 2024`
@@ -170,7 +130,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat achievements.table`
+## `achievements.table`
 
 <div align="center">
 
@@ -184,13 +144,13 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat education.badge`
+## `education.badge`
 
 ![Chandigarh University](https://img.shields.io/badge/Chandigarh_University-B.E._Computer_Science_(2021--2025)-FF9900?style=for-the-badge&labelColor=0A192F)
 
 <br>
 
-## `$ cat certifications.md`
+## `certifications.md`
 
 ![Blockchain Internship](https://img.shields.io/badge/Blockchain_Development_Internship-Completion_Certificate-FF9900?style=flat-square&labelColor=0A192F)
 
@@ -198,7 +158,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat github-analytics.sh`
+## `github-analytics`
 
 <div align="center">
 
@@ -211,7 +171,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat trophies.sh`
+## `trophies.`
 
 <div align="center">
 
@@ -221,7 +181,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat activity-graph.sh`
+## `activity-graph`
 
 <div align="center">
 
@@ -231,7 +191,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat summary-cards.sh`
+## `summary-cards`
 
 <div align="center">
 
@@ -245,7 +205,7 @@ Decentralized app for secure real-time blockchain messaging.
 
 <br>
 
-## `$ cat snake.svg`
+## `snake.svg`
 
 <div align="center">
 
@@ -282,7 +242,7 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9900?style=for-the-badge&logo=linkedin&logoColor=0A192F)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=for-the-badge&logo=github&logoColor=0A192F)](https://github.com/your-github)
 [![X](https://img.shields.io/badge/X-FF9900?style=for-the-badge&logo=x&logoColor=0A192F)](https://x.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=vercel&logoColor=0A192F)](https://your-portfolio-link.com)
+[![Portfolio])
 
 </div>
 
