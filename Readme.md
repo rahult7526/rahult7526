@@ -154,8 +154,6 @@ Decentralized app for secure real-time blockchain messaging.
 
 ![Blockchain Internship](https://img.shields.io/badge/Blockchain_Development_Internship-Completion_Certificate-FF9900?style=flat-square&labelColor=0A192F)
 
-*No AWS/Azure/other certifications listed on your resume — add them here once earned, since none were provided.*
-
 <br>
 
 ## `github-analytics`
